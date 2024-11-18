@@ -1,0 +1,68 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TASK1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <header>
+        <h1>Responsive Webpage</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Home Page</h2>
+        <img src="task1home.jpg" alt="Home Image">
+        <button>Learn More</button>
+    </section>
+
+    <section id="about">
+        <h2>About Page</h2>
+        <p>
+            <ul>
+                <li>Welcome to Secrolis Technologies, your trusted partner in innovative IT solutions. </li>
+                <li>We specialize in delivering cutting-edge software development, cloud computing, and digital transformation services tailored to your business needs. </li>
+                <li>Our team of experts is dedicated to empowering businesses with robust, scalable, and secure technology solutions.</li>
+                <li>At Secrolis, we combine innovation with excellence to help you stay ahead in today’s competitive digital landscape. Whether you're a startup or an established enterprise, we’re here to turn your ideas into reality.</li>
+                <li>Join us in shaping the future of technology! </li>
+            </ul>
+        </p>
+
+    </section>
+
+    <section id="contact">
+        <h2>Contact Page</h2>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email">
+            <button>Submit</button>
+        </form>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+            </tr>
+            <tr>
+                <td>Sivakumar M</td>
+                <td>siva123@gmail.com</td>
+            </tr>
+        </table>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 My Responsive Webpage</p>
+    </footer>
+
+</body>
+</html> -->
